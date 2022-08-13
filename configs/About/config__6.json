@@ -1,0 +1,5 @@
+{
+  "about": {
+    "aboutContent": "<div><span style=\"color: rgb(76, 76, 76); font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px;\">A map of the city of Toronto's places of interest, including the performing arts, museums, parks, landmarks, beaches, galleries, sports venues, gardens, convention centres, shopping, transportation, and visitor information centres.</span></div><div style=\"font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; color: rgb(76, 76, 76); font-size: 16px;\"><br /></div><div style=\"font-family: &quot;Avenir Next W01&quot;, &quot;Avenir Next W00&quot;, &quot;Avenir Next&quot;, Avenir, &quot;Helvetica Neue&quot;, sans-serif; color: rgb(76, 76, 76); font-size: 16px;\">Map made by Martyna Chomiuk for Internet Mapping course, Mohawk College. Basemap made with Mapbox.</div>"
+  }
+}
